@@ -1,0 +1,1 @@
+# pulumi-kafka-bug-example
