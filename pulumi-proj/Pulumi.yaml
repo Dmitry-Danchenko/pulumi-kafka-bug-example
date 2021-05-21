@@ -1,0 +1,3 @@
+name: pulumi-kafka-bug-example
+runtime: nodejs
+description: A minimal TypeScript Pulumi program

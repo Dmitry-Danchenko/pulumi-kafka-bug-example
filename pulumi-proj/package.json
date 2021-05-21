@@ -1,0 +1,10 @@
+{
+    "name": "pulumi-kafka-bug-example",
+    "devDependencies": {
+        "@types/node": "^10.0.0"
+    },
+    "dependencies": {
+        "@pulumi/kafka": "^3.0.1",
+        "@pulumi/pulumi": "^3.0.0"
+    }
+}

@@ -1,0 +1,5 @@
+encryptionsalt: v1:iVPBLL258K8=:v1:enCZ6rSFLUbnsr/0:vQ/b8/PBPgsBQBTMiRNGzpBF6DoQxw==
+config:
+  kafka:bootstrapServers: 
+    - localhost:19092
+  kafka:tlsEnabled: "false"
